@@ -23,7 +23,7 @@ const App = () => {
                 </div>
             </Layout>
             <div className='footer'>
-                <Typography.Title level='5' style={{color: 'white', textAlign: 'center'}}>
+                <Typography.Title level='3' style={{color: 'white', textAlign: 'center'}}>
                     Crytopoverse <br />
                     All rights reserved
                 </Typography.Title>
@@ -40,4 +40,3 @@ const App = () => {
 
 export default App;
 
-// rface
